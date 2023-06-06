@@ -1,0 +1,15 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}Project Name:       Phan Mem Quan Ly Tien Dien Java
+${licensePrefix}Project URI:        https://github.com/zadajtjeu/QuanLyTienDien
+${licensePrefix}Description:       Bai tap lon Java Quan Ly Tien Dien JDBC + Swing
+${licensePrefix}Version:           1.0
+${licensePrefix}Author:            Nhom 18: Nam, Hao, Trung
+${licensePrefix}Author URI:        https://nam.name.vn
+${licensePrefix}
+${licensePrefix}Copyright (C) 2021-2022 Pham Thanh Nam - HAUI.
+${licensePrefix}
+<#if licenseLast??>
+${licenseLast}
+</#if>
